@@ -8,7 +8,13 @@ Este projeto foca na otimização do processo de assistência técnica interna p
 - **IA:** Visão Computacional (Deep Learning)
 - **Documentação:** LaTeX (Padrão SBC)
 
-## 📋 Objetivos Principais
-- Triagem automatizada de falhas motoras (70% dos casos).
-- Padronização de laudos técnicos de garantia.
-- Redução do tempo de resposta (Lead Time) do suporte interno.
+## 📋 Escopo Técnica do Projeto
+O sistema visa a triagem inteligente de todo o conjunto motobomba, dividindo-se em:
+
+- **Análise Motora (70%):** Identificação de danos em bobinagens, estatores e carcaças.
+- **Análise de Componentes (30%):** Avaliação de desgaste em rotores (cavitação), selos mecânicos, vedações, tampas e acoplamentos.
+
+## 🚀 Funcionalidades
+- Triagem assistida via Visão Computacional para múltiplos componentes.
+- Suporte à decisão do analista interno para classificação de garantia.
+- Geração automatizada de laudos periciais em PDF para envio aos clientes.
